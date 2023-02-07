@@ -1,10 +1,7 @@
 import { useState } from "react";
 import { DataTable, Layout, Modals, LabelInput } from "../../components";
 import Image from "next/image";
-<<<<<<< HEAD
-=======
 
->>>>>>> 6877e442d0d5dd3f717499d499e776237f5a0b13
 import { useMemo } from "react";
 import axios from 'axios';
 import { toast } from 'react-toastify';
